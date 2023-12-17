@@ -1,13 +1,10 @@
-package Game;
-
 import java.io.File;
-
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.FloatControl;
 
-public class playSound {
+public class PlaySound {
 	public void playsound(String soundName)
 	 {
 	   try 

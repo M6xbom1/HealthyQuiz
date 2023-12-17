@@ -1,0 +1,15 @@
+package Game;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Howtoplaygame Howtoplay = new Howtoplaygame();
+		Howtoplay.Howtoplaygame();
+		
+		
+		
+	}
+}
+
